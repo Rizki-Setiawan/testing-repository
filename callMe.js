@@ -3,4 +3,6 @@ function callMe(name) {
 }
 
 callMe("Kise");
-
+if (true) {
+  console.log('Welcome Back !')
+}
